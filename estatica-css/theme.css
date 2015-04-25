@@ -1,0 +1,37 @@
+html { 
+	text-align: center;
+}
+h1 {
+	font-family: "Impact", Gadget, sans-serif;
+	color: orange;
+	font-style: italic;
+	text-shadow: 2px 2px gray;
+}
+h2 {
+	font-style: bold;
+	outline-color: black;
+}
+ul {
+	background-color: gray;
+	border: dashed;
+	color: white;
+	font-size: 32px;
+}
+
+form {
+	background-color: gray;
+	border: dashed;
+	color: white; 
+}
+
+#submit {
+	font-family: "Impact";
+	font-size: 32px;
+	font-style: bold italic;
+}
+
+a {
+	font-family: "Impact";
+	font-size: 32px;
+	font-style: bold italic;
+}
